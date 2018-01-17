@@ -254,7 +254,6 @@
 						</div>
 					</li>
 					
-					<p class="clear"></p>
 				</ul></div>
 			</li>
 			<li class="" ><div style="margin:0px 0px 0px 30px">
