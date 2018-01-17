@@ -235,32 +235,32 @@
 				</header>
 				<article class="i-teacher-list">
 		<ul class="of">
-			<li class="" >
-				<p class="edition-title">安卓版</p>
+			<li class=""><div style="margin:0px 0px 0px 30px">
+				<p class="edition-title" style="font-size:20px">安卓版</p>
 				<p class="edition-pic"><img src="//images.koolearn.com/shark/project/zt/2017/0720app/i/icon-2.jpg?f926a0" alt=""></p>
-				<ul class="edition-list" style="margin-left:0;padding-top:0">
+				<ul class="edition-list" style="margin-left:7px;padding-top:0">
 					<li class="col-1 jq-dom-android">
-						<p class="name">安卓版 v3.8.0</p>
+						<p class="name">安卓版 v3.8</p>
 						<p class="date">2017-09-13</p>
 					</li>
 					<li class="col-2 jq-dom-android">
 						<div class="btn">
-							<a href="/download/download_android" style="width:70px;margin-right:10px;float:right">下载</a>
+							<a href="/download/download_android" style="width:70px;margin-right:5px;float:right">下载</a>
 						</div>
 					</li>
 					<li class="col-2 jq-dom-android">
 						<div class="btn">
-							<a href="/download/download_android" style="width:70px;margin-left:10px;float:left;">安装说明</a>
+							<a href="/download/download_android" style="width:70px;margin-left:5px;float:left;">安装说明</a>
 						</div>
 					</li>
 					
 					<p class="clear"></p>
-				</ul>
+				</ul></div>
 			</li>
-			<li class="" >
-				<p class="edition-title">IOS版</p>
+			<li class="" ><div style="margin:0px 0px 0px 30px">
+				<p class="edition-title" style="font-size:20px">IOS版</p>
 				<p class="edition-pic"><img src="//images.koolearn.com/shark/project/zt/2017/0720app/i/icon-2.jpg?f926a0" alt=""></p>
-				<ul class="edition-list" style="margin-left:0;padding-top:0">
+				<ul class="edition-list" style="margin-left:7px;padding-top:0">
 					
 					<li class="col-1 jq-dom-iphone">
 						<p class="name">iOS版 v3.8.0</p>
@@ -270,12 +270,12 @@
 						</div>
 					</li>
 					<p class="clear"></p>
-				</ul>
+				</ul></div>
 			</li>
-			<li class="">
-			<p class="edition-title">Windows版</p>
+			<li class=""><div style="margin:0px 0px 0px 30px">
+			<p class="edition-title" style="font-size:20px">Windows版</p>
 				<p class="edition-pic"><img src="//images.koolearn.com/shark/project/zt/2017/0720app/i/icon-1.jpg?cf2489" alt=""></p>
-				<ul class="edition-list" style="margin-left:0;padding-top:0">
+				<ul class="edition-list" style="margin-left:7px;padding-top:0">
 					<li class="col-1 jq-dom-win">
 						<p class="name">Win版 v3.8.0<span></span></p>
 						<p class="date">2017-11-07</p>
@@ -285,15 +285,15 @@
 					</li>
 					<p class="clear"></p>
 				</ul>
-				<p class="clear"></p>
+				<p class="clear"></p></div>
 			</li>
-			<li class=" " >
-				<p class="edition-title">Mac版</p>
+			<li class=" " ><div style="margin:0px 0px 0px 30px">
+				<p class="edition-title" style="font-size:20px">Mac版</p>
 				<p class="edition-pic"><img src="//images.koolearn.com/shark/project/zt/2017/0720app/i/icon-1.jpg?cf2489" alt=""></p>
-				<ul class="edition-list" style="margin-left:0;padding-top:0">
+				<ul class="edition-list" style="margin-left:7px;padding-top:0">
 					<li class="col-1 jq-dom-mac">
 						<p class="name">Mac版 
-							v3.8.0<span></span>
+							v3.8<span></span>
 						</p>
 						<p class="date">2017-10-11</p>
 						<p class="btn">
@@ -302,7 +302,7 @@
 					</li>
 					<p class="clear"></p>
 				</ul>
-				<p class="clear"></p>
+				<p class="clear"></p></div>
 			</li>
 		</ul></article>
 	</div>
