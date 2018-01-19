@@ -60,7 +60,7 @@
 							</h3>
 							<section style="background-color:#f7f7f7;margin:20px 0px" class="t-infor-txt" >
 							<p>
-								第一步 扫描二维码（或<a href="http://www.zoouedu.com/apps/pconline1502343316623.apk">点击下载</a>） 安装软件；
+								第一步 扫描二维码（或<a href="/apps/pconline1502343316623.apk">点击下载</a>） 安装软件；
 							</p>
 							<img src="/apps/android/android1.png" class="img_size">
 							<p>

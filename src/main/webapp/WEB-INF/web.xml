@@ -48,6 +48,11 @@
 		<listener-class>com.inxedu.os.common.listener.MySessionListener</listener-class>
 	</listener>
 
+	<servlet-mapping>
+		<servlet-name>default</servlet-name>
+		<url-pattern>/apps/*</url-pattern>
+	</servlet-mapping>
+	
 	<servlet>
 		<servlet-name>springmvc</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
@@ -57,7 +62,7 @@
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
-
+	
 	<servlet-mapping>
 		<servlet-name>springmvc</servlet-name>
 		<url-pattern>/</url-pattern>

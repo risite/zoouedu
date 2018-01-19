@@ -245,7 +245,7 @@
 					</li>
 					<li class="col-2 jq-dom-android">
 						<div class="btn">
-							<a href="/download/download_android" style="width:70px;margin-right:5px;float:right">下载</a>
+							<a href="/apps/pconline1502343316623.apk" style="width:70px;margin-right:5px;float:right">下载</a>
 						</div>
 					</li>
 					<li class="col-2 jq-dom-android">

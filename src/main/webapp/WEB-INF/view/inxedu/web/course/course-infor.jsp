@@ -57,14 +57,15 @@
 							</span>
 						</section>
 						<section class="c-attr-mt c-attr-time">
-							<span class="c-fff fsize14">课程有效期：
-											<c:if test="${course.loseType==0 }">
-												<fmt:formatDate pattern="yyyy/MM/dd HH:mm"  value="${course.endTime}" />
-											</c:if>
-											<c:if test="${course.loseType==1 }">
-													从购买之日起${course.loseTime }天
-												</span>
-											</c:if>
+							<span class="c-fff fsize14"></br>
+<!-- 							课程有效期： -->
+<%-- 											<c:if test="${course.loseType==0 }"> --%>
+<%-- 												<fmt:formatDate pattern="yyyy/MM/dd HH:mm"  value="${course.endTime}" /> --%>
+<%-- 											</c:if> --%>
+<%-- 											<c:if test="${course.loseType==1 }"> --%>
+<%-- 													从购买之日起${course.loseTime }天 --%>
+<!-- 												</span> -->
+<%-- 											</c:if> --%>
 							</span>
 						</section>
 						<section class="c-attr-mt">
@@ -92,7 +93,7 @@
 					<ol class="thr-attr-ol clearfix">
 						<li><p>&nbsp;</p>
 							<aside>
-								<span class="c-fff f-fM">购买数</span><br>
+								<span class="c-fff f-fM">参加人数</span><br>
 								<h6 class="c-fff f-fM mt10">${course.pageBuycount }</h6>
 							</aside></li>
 						<li><p>&nbsp;</p>
