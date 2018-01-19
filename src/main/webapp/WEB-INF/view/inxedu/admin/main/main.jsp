@@ -157,9 +157,9 @@
 				<div id="top">
 					<!-- Logo -->
 					<div class="logo">
-						<a href="http://demo1.inxedu.com/" target="_blank" title="因酷在线教育软件 - 在线教育整体解决方案提供商" class="tooltip">
-							<img src="${ctx}/static/admin/assets/logo.png" height="60" alt="因酷在线教育软件 - 在线教育整体解决方案提供商" />
-						</a>
+						<a href="http://www.zoouedu.com/" target="_blank" title="北京众优国际教育咨询中心">
+				<img src="<%=staticImage%>${logomap.logo.url}" height="60" alt="" />
+			</a>
 					</div>
 					<!-- End of Logo -->
 

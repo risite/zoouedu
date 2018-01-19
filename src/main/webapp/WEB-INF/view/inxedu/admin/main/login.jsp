@@ -28,8 +28,8 @@
 <body>
 	<div id="container">
 		<div class="logo">
-			<a href="http://demo1.inxedu.com/" target="_blank" title="因酷在线教育软件 - 在线教育整体解决方案提供商">
-				<img src="${ctx}/static/admin/assets/logo.png" width="200" alt="因酷在线教育软件 - 在线教育整体解决方案提供商" />
+			<a href="http://www.zoouedu.com/" target="_blank" title="北京众优国际教育咨询中心">
+				<img src="<%=staticImage%>${logomap.logo.url}" width="100%" alt="" />
 			</a>
 		</div>
 	</div>
