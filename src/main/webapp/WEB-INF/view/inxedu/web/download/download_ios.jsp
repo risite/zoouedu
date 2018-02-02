@@ -59,27 +59,27 @@
 								<span class="fsize24 c-333">安装说明</span>
 							</h3>
 							<section style="background-color:#f7f7f7;margin:20px 0px" class="t-infor-txt" >
-							<p>
+							<p style="color:black;">
 								第一步 打开App Stroe软件；
 							</p>
 							<img src="/apps/ios/ios1.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第二步 搜索栏输入“polycom”进行搜索、安装；
 							</p>
 							<img src="/apps/ios/ios2.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第三步 打开软件，“RealPresence Cloud”选项打开，跳过登录；
 							</p>
 							<img src="/apps/ios/ios3.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第四步 进入软件，点击“设置”图标；
 							</p>
 							<img src="/apps/ios/ios4.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第五步 进入设置界面，首先输入个人信息 H.323设置；
 							</p>
 							<img src="/apps/ios/ios5.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第六步 H323设置    打开“网闸注册”选项，输入内、外部网闸“1.202.150.21”，输入学号（9开头）；
 							</p>
 							<img src="/apps/ios/ios6.png" class="img_size">

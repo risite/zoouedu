@@ -59,23 +59,23 @@
 								<span class="fsize24 c-333">安装说明</span>
 							</h3>
 							<section style="background-color:#f7f7f7;margin:20px 0px" class="t-infor-txt" >
-							<p>
+							<p style="color:black;">
 								第一步 扫描二维码（或<a href="/apps/pconline1502343316623.apk">点击下载</a>） 安装软件；
 							</p>
 							<img src="/apps/android/android1.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第二步  “RealPresence Cloud”选项打开 ，跳过登录；
 							</p>
 							<img src="/apps/android/android2.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第三步 进入软件，点击 “设置”图标，进入设置界面；
 							</p>
 							<img src="/apps/android/android3.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第四步 点击“H.323设置”；
 							</p>
 							<img src="/apps/android/android4.png" class="img_size">
-							<p>
+							<p style="color:black;">
 								第五步  H.323设置，打开“网闸注册”选项，输入内、外部网闸“1.202.150.21”，输入学号（9开头）；
 							</p>
 							<img src="/apps/android/android5.png" class="img_size">
